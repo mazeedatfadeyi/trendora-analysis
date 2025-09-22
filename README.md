@@ -1,3 +1,3 @@
 # Trendora Analysis Report
 
-![Header viz](Excel viz.png)
+![Header viz](Excel-viz.png)
