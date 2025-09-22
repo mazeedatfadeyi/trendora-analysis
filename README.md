@@ -27,7 +27,7 @@ The dataset consists of 3,900 purchase records with 16 columns, covering custome
 - Customers in the 60–70 age group account for the highest number of purchases.
 
 ## Dashboard
- ![trendora dashboard](dashboard-viz.png)
+ ![trendora dashboard](Dashboard-viz.png)
 
 
 
